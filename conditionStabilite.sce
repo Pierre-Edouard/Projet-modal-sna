@@ -2,7 +2,7 @@
 // Détermination d'un critère de stabilité du processus par méthode graphique
 //------------------------------------------------------------------------------
 
-// Paramètres
+// Paramètres  TEST
 lambdaMin = 0.3
 lambdaMax = 0.7
 step = 0.05
